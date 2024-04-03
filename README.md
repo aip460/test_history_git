@@ -1,6 +1,6 @@
 # test_history_git
 
-Pasos para eliminar una subida a github erronea:
+Pasos para eliminar una subida a github erronea (público, para poder ver la pérdida de información):
 
 1. Subir un fichero password.txt, junto con otros basura.txt
 2. Probar a eliminar el fichero passwrod.txt y hacer un commit, seguire teniendo el rastro de dicho fichero.
